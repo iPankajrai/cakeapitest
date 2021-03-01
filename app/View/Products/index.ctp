@@ -1,2 +1,2 @@
-<?php
-print_r($products);
+<!-- <?php
+print_r($products); -->
